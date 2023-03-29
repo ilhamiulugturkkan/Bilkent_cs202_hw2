@@ -1,2 +1,2 @@
-# Bilkent_cs202_hw2
-Binary Search Tree
+# Binary Search Tree Homework
+No memory leaks. No errors. Just awesomeness.
